@@ -1,4 +1,4 @@
-<img align="center" alt="Nitin's Banner" width="500px" src="https://user-images.githubusercontent.com/75834362/137939436-c6a880cb-b0dd-4a7d-8a9e-03c08f1cff26.png" />
+<img align="center" alt="Nitin's Banner" width="" src="https://user-images.githubusercontent.com/75834362/137939436-c6a880cb-b0dd-4a7d-8a9e-03c08f1cff26.png" />
 
 <br>
 
