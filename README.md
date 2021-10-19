@@ -1,6 +1,7 @@
 ### Hi there, I'm Nitin Rajesh 👋
 
-## I'm an App Developer and Front End Web Developer!!
+# Hi there, I'm Nitin Rajesh!!
+### I'm an App Developer and Front End Web Developer 👋
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning everything 🤣
