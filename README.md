@@ -1,5 +1,5 @@
 <img align="center" alt="Nitin's Banner" width="" src="https://user-images.githubusercontent.com/75834362/137939805-b2b6c3bf-b905-46e5-aeb2-076b91dc15f9.png" />
-### I'm an App Developer and Front End Web Developer 👋
+## I'm an App Developer and Front End Web Developer 👋
 
 - He/Him
 - 14yrs old
