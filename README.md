@@ -1,12 +1,9 @@
-### Hello there!!
+![nitin banner](https://user-images.githubusercontent.com/75834362/137935296-69f51f09-4d79-4684-ab39-10e0c01c9007.png)
 
-# I'm Nitin Rajesh
 ### I'm an App Developer and Front End Web Developer 👋
 
 - He/Him
 - 14yrs old
-
-<br/>
 
 ### Languages and Tools:
 
@@ -16,7 +13,7 @@
 [<img align="left" alt="Figma" width="26px" 
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />}
                           
 <br />
 <br />
