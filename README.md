@@ -3,12 +3,10 @@
 # I'm Nitin Rajesh
 ### I'm an App Developer and Front End Web Developer 👋
 
-- 😄 Pronouns: He/Him
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m not looking to collaborate currently
-- ⚡ Fun fact: I love to play the guitar, compose and produce music and also to play badminton.
+- He/Him
+- 14yrs old
 
-<br />
+<br/>
 
 ### Languages and Tools:
 
