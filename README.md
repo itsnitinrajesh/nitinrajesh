@@ -1,5 +1,4 @@
-![nitin banner](https://user-images.githubusercontent.com/75834362/137935296-69f51f09-4d79-4684-ab39-10e0c01c9007.png)
-
+[<img align="left" alt="Nitin's Banner" width="100px" hieght="50px" src="https://user-images.githubusercontent.com/75834362/137935296-69f51f09-4d79-4684-ab39-10e0c01c9007.png" />]
 ### I'm an App Developer and Front End Web Developer 👋
 
 - He/Him
@@ -19,7 +18,3 @@
 <br />
 
 ---
-
-[website]: https://nitinrajesh.com
-[linkedin]: https://www.linkedin.com/in/nitin-rajesh-502a46210/
-[email]: nitinrajesh.work@gmail.com
