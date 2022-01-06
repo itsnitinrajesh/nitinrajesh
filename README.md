@@ -4,6 +4,7 @@
 
 - He/Him
 - 14yrs old
+- Contact - nitinrajesh.work@gmail.com
 
 ### Languages and Tools:
 
